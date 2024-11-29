@@ -1,0 +1,27 @@
+{
+    "files.exclude": {
+        "**/README.md": true,
+
+        "**/.gitignore": true,
+        "**/.metadata": true,
+        "**/.idea": true,
+        "**/.dart_tool": true,
+
+        "**/analysis_options.yaml": true,
+        "**/pubspec.lock": true,
+        "**/serve_now.iml": true,
+        
+
+        "**/build": true,
+
+        "**/windows": true,
+        "**/web": true,
+        "**/test": true,
+        "**/macos": true,
+        "**/linux": true,
+        "**/ios": true,
+    },
+
+    "git.decorations.enabled": false,
+    "java.compile.nullAnalysis.mode": "automatic",
+}
